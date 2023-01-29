@@ -10,3 +10,11 @@ Hello 👋, I am JVideo! I like to write code (mostly from scratch), make fun pr
 </p>
 
 ---
+
+#
+
+### 📊 Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JVideo3078&theme=dark&hide_border=true&border_radius=5&mode=weekly&show_icon=true)](https://git.io/streak-stats)
+
+#
