@@ -15,6 +15,6 @@ Hello 👋, I am JVideo! I like to write code (mostly from scratch), make fun pr
 
 ### 📊 Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JVideo3078&theme=dark&hide_border=true&border_radius=5&mode=weekly&show_icon=true)](https://git.io/streak-stats)
+[![JVideo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvideo3078&show_icons=true&theme=dark)
 
 #
